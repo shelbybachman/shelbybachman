@@ -1,4 +1,4 @@
-Hi there 👋 I'm a PhD candidate in the [Emotion & Cognition Lab](https://gero.usc.edu/labs/matherlab/) at the University of Southern California :palm_tree:. I study how the brain's noradrenergic system changes across the adult lifespan using behavior :zap:, psychophysiology :eyes:, and neuroimaging :brain:
+Hi there 👋 I am a PhD candidate in the [Emotion & Cognition Lab](https://gero.usc.edu/labs/matherlab/) at the University of Southern California :palm_tree:. I study the brain's noradrenergic system & how it changes across the lifespan using behavior :zap:, psychophysiology :eyes:, and neuroimaging :brain:
 <!--
 **shelbybachman/shelbybachman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
