@@ -1,4 +1,5 @@
-Hi there 👋 I am a PhD candidate in the [Emotion & Cognition Lab](https://gero.usc.edu/labs/matherlab/) at the University of Southern California :palm_tree:. I study the brain's noradrenergic system using behavior :zap:, psychophysiology :eyes:, and neuroimaging :brain:, and I like R programming and reproducibility :ledger:
+Hi there 👋 I am a PhD candidate in the [Emotion & Cognition Lab](https://gero.usc.edu/labs/matherlab/) at the University of Southern California :palm_tree:. I study the brain's noradrenergic system using behavior :zap:, psychophysiology :eyes:, and neuroimaging :brain:
+
 <!--
 **shelbybachman/shelbybachman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
